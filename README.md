@@ -52,6 +52,3 @@
 </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritraprime05&" alt="aritraprime05" />
-</p>
